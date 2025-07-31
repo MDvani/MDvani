@@ -5,7 +5,7 @@ I enjoy working with data, writing clean Python code, and visualizing insights u
 
 ###  What I'm currently learning:
 
- -Statistics for Data Science
+ 
 - Data Analysis using Pandas & NumPy  
 - Data Visualization with Matplotlib & Seaborn  
 - Descriptive Statistics & Linear Algebra for Machine Learning  
