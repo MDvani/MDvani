@@ -19,8 +19,9 @@ I enjoy working with data, writing clean Python code, and visualizing insights u
 
 ###  Tech Stack:
 - **Languages**: Python  
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn  
-- **Tools**: Jupyter Notebook, Git, GitHub, VS Code,Google Colab
+- **Libraries**: Pandas|NumPy| Matplotlib| Seaborn  
+- **Tools**: Jupyter Notebook| Tableau|Git| GitHub | VS Code|Google Colab|
+- **Database**:SQL
 
 ### Reach me at:
 -[mdurgavani99@gmail.com]
