@@ -25,6 +25,6 @@ I enjoy working with data, writing clean Python code, and visualizing insights u
 
 ### Reach me at:
 -[mdurgavani99@gmail.com]
--[durga-vani-moka-4b6269240]
+-https://linkedin.com/in/durga-vani-moka-4b6269240
 -[https://github.com/MDvani]
 
